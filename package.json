@@ -1,7 +1,7 @@
 {
   "name": "fitsoft",
-  "version": "0.0.1",
-  "author": "Patrycjusz Hładun",
+  "version": "0.1.0",
+  "author": "Patrick Hladun",
   "private": true,
   "scripts": {
     "dev": "webpack serve --config webpack.config.js",
